@@ -7,4 +7,4 @@
 - 📫 How to reach me: LinkedIn - [@Afolabi Ibukun](https://www.linkedin.com/in/afolabi-ibukun-051777a6/)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I Love watching movies!
-
+- Watch some  of my tutorial videos on Youtube - [Data Science for Business] (https://www.youtube.com/channel/UCybPNFQhJYLGQrN_VWoRZWg/videos)
