@@ -1,6 +1,6 @@
 ### Hi, I'm Ibukun Afolabi ! 👋
 
-- 🔭 I’m currently working on an an ecommerce analytics project that will help improves sales.
+- 🔭 I’m currently working on an ecommerce analytics project that will help improves sales.
 - 🌱 I’m currently learning to create chatbots for improving sales on ecommerce platforms using python.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 💬 Ask me about business analytics consulting or any data science related stuff.
