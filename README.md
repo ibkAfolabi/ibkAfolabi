@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to create chatbots for improving sales on ecommerce platforms using python.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 💬 Ask me about business analytics consulting or any data science related stuff.
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/afolabi-ibukun-051777a6/
+- 📫 How to reach me: LinkedIn - [@Afolabi Ibukun](https://www.linkedin.com/in/afolabi-ibukun-051777a6/)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I Love watching movies!
 
